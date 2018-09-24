@@ -1,9 +1,0 @@
-C:\asosdev\git\katas\NinetyNineBottles\bin\Debug\netstandard2.0\NinetyNineBottles.deps.json
-C:\asosdev\git\katas\NinetyNineBottles\bin\Debug\netstandard2.0\NinetyNineBottles.dll
-C:\asosdev\git\katas\NinetyNineBottles\bin\Debug\netstandard2.0\NinetyNineBottles.pdb
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.csprojResolveAssemblyReference.cache
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.csproj.CoreCompileInputs.cache
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.AssemblyInfoInputs.cache
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.AssemblyInfo.cs
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.dll
-C:\asosdev\git\katas\NinetyNineBottles\obj\Debug\netstandard2.0\NinetyNineBottles.pdb
