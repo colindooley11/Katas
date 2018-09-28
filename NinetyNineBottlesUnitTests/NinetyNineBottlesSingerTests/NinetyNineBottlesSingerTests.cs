@@ -13,7 +13,7 @@ namespace KataTests.NinetyNineBottlesSingerTests
             var subject = new NinetyNineBottlesSinger();
             var result = subject.Verse(99);
 
-            var expected = "99 bottles of beer on the wall, 99 bottles of beer." +
+            var expected = "99 bottles of beer on the wall, 99 bottles of beer.\n" +
                            "Take one down and pass it around, 98 bottles of beer on the wall.";
             Assert.That(result, Is.EqualTo(expected));
         }
@@ -24,7 +24,7 @@ namespace KataTests.NinetyNineBottlesSingerTests
             var subject = new NinetyNineBottlesSinger();
             var result = subject.Verse(89);
 
-            var expected = "89 bottles of beer on the wall, 89 bottles of beer." +
+            var expected = "89 bottles of beer on the wall, 89 bottles of beer.\n" +
                            "Take one down and pass it around, 88 bottles of beer on the wall.";
             Assert.That(result, Is.EqualTo(expected));
         }
@@ -59,8 +59,8 @@ namespace KataTests.NinetyNineBottlesSingerTests
             var subject = new NinetyNineBottlesSinger();
             var result = subject.Verse(0);
 
-            var expected = "1 bottle of beer on the wall, 1 bottle of beer.\n" +
-                           "Take it down and pass it around, no more bottles of beer on the wall.";
+            var expected = "No more bottles of beer on the wall, no more bottles of beer.\n" +
+                           "Go to the store and buy some more, 99 bottles of beer on the wall.";
             Assert.That(result, Is.EqualTo(expected));
         }
 
